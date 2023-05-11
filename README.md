@@ -16,11 +16,11 @@ Redmond, WA
 **Master of Science in Data Analytics**\
 Expected Graduation: 2024
 
-**Bellevue College** (2020 - 2021)\
+[**Bellevue College**](https://www.parchment.com/u/award/f09fa9b7a8c7f3d0179370e1d4f0f426) (2020 - 2021)\
 **Bachelor of Applied Science in Data Analytics**\
 Magna Cum Laude
 
-**Bellevue College** (2019 - 2020)\
+[**Bellevue College**](https://www.parchment.com/u/award/66c64d4ef35fd87bab5c29b2620075eb) (2019 - 2020)\
 **Associate of Arts and Sciences**\
 High Distinction
 
