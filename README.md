@@ -1,6 +1,6 @@
 # Danny Pham
 Bellevue, WA\
-dannyphamv@gmail.com\
+[dannyphamv@gmail.com](mailto:dannyphamv@gmail.com)
 [dannyphamv.com](https://dannyphamv.com/)
 
 # Work Experience
