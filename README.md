@@ -25,17 +25,6 @@ Magna Cum Laude
 High Distinction
 
 # Skills
-- Languages
-  - R
-  - SQL
-  - Python
-
-- Software
-  - Excel
-  - Tableau
-  - PowerBI
-
-- Tools
-  - RStudio
-  - MonogDB
-  - Visual Studio
+Languages: **R, SQL, Python**\
+Software: **Excel, Tableau, PowerBI**\
+Tools: **RStudio, MonogDB, Visual Studio**
