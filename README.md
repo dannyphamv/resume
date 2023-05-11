@@ -1,4 +1,4 @@
-# Danny Pham
+# Danny Pham, Data Analyst
 Bellevue, WA | dannyphamv@gmail.com | (206) 446-9619
 
 # Work Experience
