@@ -1,7 +1,5 @@
 # Danny Pham
-Bellevue, WA\
-[dannyphamv@gmail.com](mailto:dannyphamv@gmail.com)\
-[dannyphamv.com](https://dannyphamv.com/)
+Bellevue, WA | dannyphamv@gmail.com | (206) 446-9619
 
 # Work Experience
 **Amazon** (Mar 2022 - Current)\
