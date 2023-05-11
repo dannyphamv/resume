@@ -9,7 +9,7 @@ Bellevue, WA\
 Redmond, WA
 - Worked independently and as part of a team, and adapted to changing priorities and demands, including working alone and opening and closing the site.
 - Provided excellent customer service by answering questions, resolving issues, and working through problem-solving scenarios for customers. 
-- Operated a variety of technologies to receive, pick, and stow customer orders, process returns, and prepare for delivery. Successfully received truck deliveries and maintained a clean and organized workspace.
+- Operated a variety of technologies to receive, pick, and stow customer orders, process returns, and prepare for delivery. 
 
 # Education
 **Western Governors University** (2022 - Current)\
