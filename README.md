@@ -1,14 +1,6 @@
 # Danny Pham, Data Analyst
 Bellevue, WA | dannyphamv@gmail.com | (206) 446-9619
 
-# Work Experience
-**Amazon** | March 2022 - Current\
-**Locker+ Customer Service Associate**\
-Redmond, WA
-- Worked independently and as part of a team, and adapted to changing priorities and demands, including working alone and opening and closing the site.
-- Provided excellent customer service by answering questions, resolving issues, and working through problem-solving scenarios for customers. 
-- Operated a variety of technologies to receive, pick, and stow customer orders, process returns, and prepare for delivery. 
-
 # Education
 **Western Governors University** | 2022 - Current\
 **Master of Science in Data Analytics**\
@@ -26,3 +18,11 @@ High Distinction
 Languages: **R, SQL, Python**\
 Software: **Excel, Tableau, PowerBI**\
 Tools: **RStudio, MongoDB, Visual Studio**
+
+# Work Experience
+**Amazon** | March 2022 - Current\
+**Locker+ Customer Service Associate**\
+Redmond, WA
+- Worked independently and as part of a team, and adapted to changing priorities and demands, including working alone and opening and closing the site.
+- Provided excellent customer service by answering questions, resolving issues, and working through problem-solving scenarios for customers. 
+- Operated a variety of technologies to receive, pick, and stow customer orders, process returns, and prepare for delivery. 
